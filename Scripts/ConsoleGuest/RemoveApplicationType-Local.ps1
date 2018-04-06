@@ -1,0 +1,2 @@
+﻿Connect-ServiceFabricCluster
+Unregister-ServiceFabricApplicationType ConsoleMonitorType 1.0.0 -Force

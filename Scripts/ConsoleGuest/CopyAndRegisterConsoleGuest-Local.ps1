@@ -1,0 +1,3 @@
+﻿Connect-ServiceFabricCluster
+Copy-ServiceFabricApplicationPackage -ApplicationPackagePath ..\..\ConsoleGuest
+Register-ServiceFabricApplicationType ConsoleGuest
