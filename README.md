@@ -4,6 +4,10 @@ This repo contains the files, code and scripts needed for the Service Fabric 101
 
 ## Requirements for the labs
 * Visual Studio
+  * Instructions for VS 2017 and VS 2015 can be found here - https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started
 * Service Fabric SDK
 * Azure account
 * Powershell
+  * Exection policy may need to be updated via Set-ExecutionPolicy
+  * See https://docs.microsoft.com/en-us/azure/service-fabric/service-fabric-get-started#enable-powershell-script-execution for more details
+
