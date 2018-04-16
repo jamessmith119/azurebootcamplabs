@@ -1,0 +1,1 @@
+C:\Source\Bootcamp\HelloWorld\HelloWorld\obj\x64\Debug\HelloWorld.sfproj.CoreCompileInputs.cache
