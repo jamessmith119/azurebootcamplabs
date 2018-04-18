@@ -1,2 +1,0 @@
-﻿Connect-ServiceFabricCluster
-Remove-ServiceFabricApplicationPackage -ApplicationPackagePathInImageStore ConsoleGuest
